@@ -1,0 +1,1086 @@
+"Knowledge base name","Article title","Article subtitle","Article language","Article URL","Article body","Category","Subcategory","Keywords","Last modified date","Status","Archived"
+"Knowledge Base","What is a thermal printer?","A thermal printer is a printer that uses heat to generate a printout.","en","https://knowledge.labtag.com/knowledge/what-is-a-thermal-printer","<p>&nbsp;There are two types of thermal printers: direct thermal and thermal-transfer. Direct thermal printers apply heat directly to labels coated with a dye, generating a printout, whereas thermal-transfer printers apply heat to a ribbon, which then transfers ink to the label.</p>","Printers","","","2019-09-18T16:58:22.677Z","PUBLISHED","false"
+"Knowledge Base","What is Direct Thermal?","Direct thermal printers use no ink, toner, or ribbon.","en","https://knowledge.labtag.com/knowledge/what-is-direct-thermal","<p>Direct thermal printing uses heat to selectively activate chemically treated, thermosensitive labels. The printer’s heated print-head comes in direct contact with the label, that has been coated with a material (a leuco dye) specially formulated to change color when exposed to heat. Once heated, the thermosensitive label reacts and darkens, creating the desired print.&nbsp;</p>
+<p>As such, direct thermal printers use no ink, toner, or ribbon.</p>
+<p>&nbsp;</p>
+<p><strong>**Important Note**<br></strong>One important consideration when choosing this method is that the print is unstable and prone to fading over time, especially when stored in hot or humid conditions. Scratches can also produce enough heat to create marks on the label and affect the quality of the print.</p>","Printers","","","2019-09-18T16:58:23.246Z","PUBLISHED","false"
+"Knowledge Base","Autoclave Labels","Autoclave labels are thermoplastic labels that resist the extreme heat and pressure of autoclaving, intended for materials that will undergo the sterilization process.","en","https://knowledge.labtag.com/knowledge/autoclave-labels","<p>These autoclave-resistant labels are ideal for labeling metal, glass, and plastic surfaces, and will withstand sterilization in steam autoclaves, dry heat ovens, gamma irradiators, and ethylene oxide gas chambers.</p>
+<p>They have a working temperature range of -60°C/-76°F to +150°C/+302°F, resisting up to 30 psi of pressure as well as radiation levels as high as 50 KGy.</p>
+<p>These labels are compatible with several types of printing methods:</p>
+<ul>
+<li>Thermal-transfer</li>
+<li>Inkjet</li>
+<li>Laser</li>
+</ul>
+<p>Available in a range of formats, including permanent or removable, as well as blackout, piggyback, and wrap-around. &nbsp;</p>
+<p>&nbsp;</p>
+<div class=""hs-responsive-embed-wrapper hs-responsive-embed"" style=""width: 100%; height: auto; position: relative; overflow: hidden; padding: 0; max-width: 560px; max-height: 315px; min-width: 256px; margin: 10px auto; display: block; clear: both;"">
+<div class=""hs-responsive-embed-inner-wrapper"" style=""position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.25%; margin: 0;""><iframe class=""hs-responsive-embed-iframe"" height=""315"" src=""//www.youtube.com/embed/PJmQPTWCMP4"" style=""position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"" width=""560"" allowfullscreen=""allowfullscreen"" data-service=""youtube""></iframe></div>
+</div>
+<p>&nbsp;</p>
+<div class=""hs-responsive-embed-wrapper hs-responsive-embed"" style=""width: 100%; height: auto; position: relative; overflow: hidden; padding: 0; max-width: 560px; max-height: 315px; min-width: 256px; margin: 10px auto; display: block; clear: both;"">
+<div class=""hs-responsive-embed-inner-wrapper"" style=""position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.25%; margin: 0;""><iframe class=""hs-responsive-embed-iframe"" height=""315"" src=""//www.youtube.com/embed/B_Pg5_PMYac"" style=""position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"" width=""560"" allowfullscreen=""allowfullscreen"" data-service=""youtube""></iframe></div>
+</div>
+<p>&nbsp;</p>
+<div class=""hs-responsive-embed-wrapper hs-responsive-embed"" style=""width: 100%; height: auto; position: relative; overflow: hidden; padding: 0; max-width: 560px; max-height: 315px; min-width: 256px; margin: 10px auto; display: block; clear: both;"">
+<div class=""hs-responsive-embed-inner-wrapper"" style=""position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.25%; margin: 0;""><iframe class=""hs-responsive-embed-iframe"" height=""315"" src=""//www.youtube.com/embed/C4jQrS9JA6E"" style=""position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"" width=""560"" allowfullscreen=""allowfullscreen"" data-service=""youtube""></iframe></div>
+</div>
+<p>&nbsp;</p>","Labels","","","2019-09-18T16:58:22.052Z","PUBLISHED","false"
+"Knowledge Base","What is Thermal-Transfer?","Thermal-transfer printing uses a ribbon to print information on labels.","en","https://knowledge.labtag.com/knowledge/what-is-thermal-transfer","<p>The heated print-head is used to melt the ink coating of the ribbon, transferring it to the label. Since the label itself is not reactive, the print produced by this method is much more stable and a lot more durable. The ribbon is typically composed of either resin or wax, or a combination of the two.</p>
+<p>Thermal-transfer labels are usually made from a thermoplastic film, but can be made of paper material as well.</p>
+<p>Thermal-transfer printing is the most widely used printing process in the world for printing of high-quality barcodes.</p>","Printers","","","2019-09-18T16:58:23.070Z","PUBLISHED","false"
+"Knowledge Base","What is the difference between direct thermal and thermal-transfer?","","en","https://knowledge.labtag.com/knowledge/what-is-the-difference-between-direct-thermal-and-thermal-transfer","<p>Direct thermal and thermal-transfer printing both use a heated print-head to print on blank labels. However, with direct thermal printers, the print-head must be in direct contact with the label material, while thermal-transfer printers use an ink ribbon to print, made of wax or resin, and this is what comes into contact with the heated print-head.</p>
+<p>As such, direct thermal applies heat directly to the label, which reacts with the label’s coating to generate a printout, whereas thermal-transfer printers apply heat to the ribbon, allowing the ink to then be transferred to the label.</p>","Printers","","","2019-09-18T16:58:22.881Z","PUBLISHED","false"
+"Knowledge Base","Adjusting Margins in Word","","en","https://knowledge.labtag.com/knowledge/adjusting-margins-in-word","<p>Our label templates are optimized to work with most desktop printers without any need to adjust the margins.</p>
+<p>However, in the case where the laser label is too close/exceeds the label margins, the side margins in the template can be adjusted to correct this issue.</p>
+<p>To do so, follow these easy steps:</p>
+<ul>
+<li>Once your template is open in Word, click on “page layout” or the “layout” tab</li>
+<li>Click the “margins” button</li>
+<li>At the bottom of the drop-down window, select “custom margins”</li>
+<li>In the new “page setup” window (under the “margins” tab), make sure the correct margins (Top and sides) are entered as indicated on our GA International labels for laser printers formatting appendix, Here.</li>
+<li>If Word shows a warning pop-up indicating that some margins might be outside of the printable area of the page, click ignore</li>
+<li>Please keep in mind that the number of the template is equivalent to the product SKU# (e.g. #23 is the corresponding template for CL, RCL and TRCL-23).</li>
+</ul>","Software","","","2019-09-18T17:37:05.850Z","PUBLISHED","false"
+"Knowledge Base","How to Calibrate Your Printer","Printer calibration is a simple but important process that ensures your printed labels line-up correctly on the paper, reducing waste and lost time. ","en","https://knowledge.labtag.com/knowledge/calibrate-your-printer","<p><strong>Here’s how to calibrate the different printer models we currently provide.</strong></p>
+<p>&nbsp;</p>
+<p><strong>Cab</strong></p>
+<p>Calibrate the printer by pressing and holding the button located on the back right of the printer until the LED lights flash red; then release the button and the printer will now calibrate.</p>
+<p>After going through the calibration process, you can press the feed button to make sure it is correctly calibrated as the printer should feed only one label at a time.</p>
+<p>&nbsp;</p>
+<p><strong>Zebra</strong></p>
+<p>With the printer powered up, hold down the feed button until you get a two-flash sequence (the light will flash once, the twice) from the status light, then release the feed button.</p>
+<p>You can then press the feed button to ensure only one label at a time comes out, indicating the printer is correctly calibrated.</p>
+<p>&nbsp;</p>
+<p><strong>Cognitive</strong></p>
+<p>In the administrator’s label positioning tab, under “index settings”, select the appropriate indexing method for your labels. Click apply, save, and then calibrate to perform the calibration. You should receive a “successful” status message.</p>
+<p>If calibration was successful, pressing the Feed button will eject only one label at a time.</p>","Printers","","","2019-09-18T16:58:21.394Z","PUBLISHED","false"
+"Knowledge Base","Left-Aligned vs. Center-Aligned Printers","","en","https://knowledge.labtag.com/knowledge/left-aligned-vs-center-aligned-printers","<p><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967442.png"">&nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p><strong>Left-aligned</strong> printers is the standard printing mechanism. Here, the printhead pressure plungers need to be adjusted according to label width.</p>
+<p>&nbsp;</p>
+<p>&nbsp;<img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967443.png""></p>
+<p><strong>Center-aligned</strong> printers provide a uniform printhead pressure for all label widths, so there is no need to adjust the pressure plungers. Here, the media guide and roller are aligned to increase print accuracy, with minimal to zero shifting. They are ideal for very narrow (less than 1”) labels.</p>","Printers","","","2019-09-18T16:58:22.521Z","PUBLISHED","false"
+"Knowledge Base","Printing Labels in Color","For printing color labels, especially when multiple colors are required, inkjet printers offer the most complete solution.","en","https://knowledge.labtag.com/knowledge/printing-labels-in-color","<p>This is primarily due to the image quality provided. By allowing extremely precise placing of ink dots, these printers can more accurately reproduce an image, with very bright and vivid colors. This produces high-quality images and graphics.</p>
+<p>Inkjet printers are also the only printers that can support either sheets or rolls.</p>
+<p>Desktop inkjet printers, like those sold by HP, print labels in sheet format, while inkjet roll printers, such as those offered by Primera, can print labels in roll format. Both printer types provide similar quality results, though rolls printers can help reduce costs, by allowing for on-demand printing and the ability to load individual ink cartridges.</p>","Printers","","","2019-09-18T16:58:22.364Z","PUBLISHED","false"
+"Knowledge Base","Cryogenic Labels","Cryogenic labels are designed to withstand the extreme temperatures of cryopreservation. ","en","https://knowledge.labtag.com/knowledge/cryogenic-labels","<p>They are perfect for long-term storage of containers in liquid and vapor phase liquid nitrogen (-196°C/-321°F), laboratory freezers (-40°C/-40°F, -80°C/-112°F, -120°C/-184°F), and transportation on dry ice.</p>
+<p>Many types of cryo labels are available, depending on the desired use and application surface. This includes cryo labels specially designed for:</p>
+<ul>
+<li>Tubes, vials, and boxes</li>
+<li>Tube and vial caps</li>
+<li>Frozen surfaces</li>
+<li>Microplates</li>
+<li>IVF straws</li>
+<li>PCR tubes</li>
+<li>Metal racks</li>
+<li>Cryo storage canes</li>
+</ul>
+<p>&nbsp;</p>
+<p>These labels are compatible with several types of printers:</p>
+<ul>
+<li>Thermal-transfer</li>
+<li>Direct thermal</li>
+<li>Inkjet</li>
+<li>Laser</li>
+<li>DYMO</li>
+<li>Automated printers</li>
+</ul>
+<p><br>Provided with either a permanent or removable adhesive, in white, transparent or assorted colors, the labels are available as tamper-evident, destructible, blackout, piggyback, or wrap-around labels.&nbsp;</p>
+<p>&nbsp;</p>
+<div class=""hs-responsive-embed-wrapper hs-responsive-embed"" style=""width: 100%; height: auto; position: relative; overflow: hidden; padding: 0; max-width: 560px; max-height: 315px; min-width: 256px; margin: 10px auto; display: block; clear: both;"">
+<div class=""hs-responsive-embed-inner-wrapper"" style=""position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.25%; margin: 0;""><iframe class=""hs-responsive-embed-iframe"" height=""315"" src=""//www.youtube.com/embed/o3ucTLU90to"" style=""position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"" width=""560"" allowfullscreen=""allowfullscreen"" data-service=""youtube""></iframe></div>
+</div>
+<p>&nbsp;</p>","Labels","","","2019-09-18T16:58:22.210Z","PUBLISHED","false"
+"Knowledge Base","Direct Thermal labels vs Chemicals and Heat","Direct thermal labels are not appropriate for any applications where the labels may be exposed to harsh chemicals, intense heat or prolonged exposure to light.","en","https://knowledge.labtag.com/knowledge/direct-thermal-labels-vs-chemicals-and-heat","<p>Direct thermal printing uses thermosensitive labels, that are coated with a special dye that can switch between two chemicals forms when exposed to heat, light or pH.</p>
+<p>Specifically, direct thermal printers use a heated print-head to directly heat the thermosensitive labels, which react to the heat and darken, creating the desired print.</p>
+<p>Because of this, direct thermal labels are not suitable for certain applications. This can include sterilization protocols that require high temperatures, such as steam autoclaves and dry heat ovens.</p>
+<p>The coating also reacts with various classes of chemicals, including acids, clearing agents (e.g. xylene) and alcohols. Moreover, direct thermal labels are also fairly light sensitive, and will completely darken if exposed to UV light.</p>","Labels","","","2019-09-18T16:58:21.897Z","PUBLISHED","false"
+"Knowledge Base","Finding the Right CryoSTUCK Labels for your Tubes","Careful consideration must be given when choosing the right CryoSTUCK® label for your cryogenic storage tubes. ","en","https://knowledge.labtag.com/knowledge/finding-the-right-cryostuck-labels-for-your-tubes","<p>There are 2 main criteria that must be addressed:</p>
+<ul>
+<li>Firstly, the CryoSTUCK label must be chosen so as to create an area of overlap when the label is wrapped onto the frozen tube of at least 0.25”. This ensures the best possible adhesion when the label is applied onto frozen vials.</li>
+<li>Secondly, a label must be chosen so that the printable portion (the portion of the label which excludes the clear wrap-around portion) is small enough as to not overlap with the rest of the label when applied onto the tube.</li>
+</ul>
+<p>Luckily at LABTAG, we have eliminated the guesswork involved in choosing your CryoSTUCK® label by offering this handy sizing guide below. Additionally, we also offer Blackout CryoSTUCK® labels for when per-existing information needs to be concealed.</p>
+<p>&nbsp;</p>
+<p><strong>CryoSTUCK®</strong></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Tube Type</strong></p>
+</td>
+<td>
+<p><strong>Width</strong></p>
+</td>
+<td>
+<p><strong>Height</strong></p>
+</td>
+<td>
+<p><strong>Printable area</strong></p>
+</td>
+<td>
+<p><strong>Recommended Labels</strong></p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.0 ml Matrix™/Biotubes™</p>
+</td>
+<td>
+<p>1.0″</p>
+</td>
+<td>
+<p>0.75″</p>
+</td>
+<td>
+<p>0.5″ x 0.75″</p>
+</td>
+<td>
+<p>L2FS-6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5 ml conical tubes</p>
+</td>
+<td>
+<p>1.75″</p>
+</td>
+<td>
+<p>0.5″</p>
+</td>
+<td>
+<p>1.0″ x 0.5″&nbsp;</p>
+</td>
+<td>
+<p>L2FS-1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.0 ml cryogenic vials</p>
+</td>
+<td>
+<p>1.125″</p>
+</td>
+<td>
+<p>1.75″&nbsp;</p>
+</td>
+<td>
+<p>1.125″ x 1.25″</p>
+</td>
+<td>
+<p>L2FS-12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.0 ml cryogenic vials</p>
+</td>
+<td>
+<p>1.75”</p>
+</td>
+<td>
+<p>0.75”</p>
+</td>
+<td>
+<p>1.5″ x 0.75″</p>
+</td>
+<td>
+<p>AHA-268</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.0 ml cryogenic vials</p>
+</td>
+<td>
+<p>1.75”</p>
+</td>
+<td>
+<p>0.75”</p>
+</td>
+<td>
+<p>1.25″ x 0.75″</p>
+</td>
+<td>
+<p>L2FS-345</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.0 ml cryogenic vials</p>
+</td>
+<td>
+<p>1.75”</p>
+</td>
+<td>
+<p>0.875”</p>
+</td>
+<td>
+<p>0.875″ x 0.875″&nbsp;</p>
+</td>
+<td>
+<p>L2FS-327</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.0 ml cryogenic vials</p>
+</td>
+<td>
+<p>1.75″</p>
+</td>
+<td>
+<p>0.875”</p>
+</td>
+<td>
+<p>1.25″ x 0.875″</p>
+</td>
+<td>
+<p>L2FS-4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.0 ml cryogenic vials</p>
+</td>
+<td>
+<p>1.75″</p>
+</td>
+<td>
+<p>1.0″</p>
+</td>
+<td>
+<p>1.5″ x 1.0″&nbsp;</p>
+</td>
+<td>
+<p>AHA-224</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.0 ml cryogenic vials</p>
+</td>
+<td>
+<p>1.75″</p>
+</td>
+<td>
+<p>1.0″</p>
+</td>
+<td>
+<p>1.0″ x 1.0″&nbsp;</p>
+</td>
+<td>
+<p>L2FS-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.0 ml round bottom tubes</p>
+</td>
+<td>
+<p>1.625″</p>
+</td>
+<td>
+<p>2.0″</p>
+</td>
+<td>
+<p>0.875″ x 2.0″&nbsp;</p>
+</td>
+<td>
+<p>L2FS-5</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 ml conical tubes</p>
+</td>
+<td>
+<p>2.375″</p>
+</td>
+<td>
+<p>0.625″</p>
+</td>
+<td>
+<p>1″ x 0.625″&nbsp;</p>
+</td>
+<td>
+<p>L2FS-312</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 ml conical tubes</p>
+</td>
+<td>
+<p>2.72″</p>
+</td>
+<td>
+<p>1.0″</p>
+</td>
+<td>
+<p>1.34″ x 1.0″</p>
+</td>
+<td>
+<p>L2FS-308</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 ml conical tubes</p>
+</td>
+<td>
+<p>3.0""</p>
+</td>
+<td>
+<p>1.0""</p>
+</td>
+<td>
+<p>1.5″ x 1.0″&nbsp;</p>
+</td>
+<td>
+<p>FIX-329</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50 ml conical tubes</p>
+</td>
+<td>
+<p>3.8″</p>
+</td>
+<td>
+<p>0.55″</p>
+</td>
+<td>
+<p>3.0″ x 0.55″</p>
+</td>
+<td>
+<p>L2FS-3</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cryo storage boxes</p>
+</td>
+<td>
+<p>2.125″</p>
+</td>
+<td>
+<p>0.625″</p>
+</td>
+<td>
+<p>1.625″ x 0.625″</p>
+</td>
+<td>
+<p>L2FS-10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cryo storage boxes</p>
+</td>
+<td>
+<p>3.0″</p>
+</td>
+<td>
+<p>1.5″</p>
+</td>
+<td>
+<p>2.5″ x 1.5″&nbsp;</p>
+</td>
+<td>
+<p>L2FS-7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cryo storage boxes</p>
+</td>
+<td>
+<p>3.0″</p>
+</td>
+<td>
+<p>4.75″</p>
+</td>
+<td>
+<p>3.0″ x 4.75″&nbsp;</p>
+</td>
+<td>
+<p>AHA-501</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cryo storage boxes</p>
+</td>
+<td>
+<p>4.0""</p>
+</td>
+<td>
+<p>5.0""</p>
+</td>
+<td>
+<p>3.5″ x 5.0″&nbsp;</p>
+</td>
+<td>
+<p>L2FC-9</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Blackout CryoSTUCK®</strong></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Tube Type</strong></p>
+</td>
+<td>
+<p><strong>Width</strong></p>
+</td>
+<td>
+<p><strong>Height</strong></p>
+</td>
+<td>
+<p><strong>Printable area</strong></p>
+</td>
+<td>
+<p><strong>Recommended Labels</strong></p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.0 ml cryogenic vials</p>
+</td>
+<td>
+<p>1.625″</p>
+</td>
+<td>
+<p>1.125″</p>
+</td>
+<td>
+<p>0.875″ x 1.125″</p>
+</td>
+<td>
+<p>AEA-5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.0 ml round bottom tubes</p>
+</td>
+<td>
+<p>1.625″</p>
+</td>
+<td>
+<p>1.375″</p>
+</td>
+<td>
+<p>0.875″ x 1.375″&nbsp;</p>
+</td>
+<td>
+<p>AEA-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.0 ml round bottom tubes</p>
+</td>
+<td>
+<p>1.625″</p>
+</td>
+<td>
+<p>2.0″</p>
+</td>
+<td>
+<p>0.875″ x 2.0″&nbsp;</p>
+</td>
+<td>
+<p>L2FC-5</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 ml conical tubes</p>
+</td>
+<td>
+<p>2.375″</p>
+</td>
+<td>
+<p>0.875″</p>
+</td>
+<td>
+<p>2″ x 0.875″</p>
+</td>
+<td>
+<p>AEA-4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 ml conical tubes</p>
+</td>
+<td>
+<p>2.5″</p>
+</td>
+<td>
+<p>0.75″</p>
+</td>
+<td>
+<p>1.0″ x 0.5″</p>
+</td>
+<td>
+<p>AEA-1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 ml conical tubes</p>
+</td>
+<td>
+<p>2.5″</p>
+</td>
+<td>
+<p>0.75″</p>
+</td>
+<td>
+<p>1.57″ x 0.75″</p>
+</td>
+<td>
+<p>AEA-7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 ml conical tubes</p>
+</td>
+<td>
+<p>2.5″</p>
+</td>
+<td>
+<p>1.0″</p>
+</td>
+<td>
+<p>2.0″ x 1.0″</p>
+</td>
+<td>
+<p>AEA-3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50 ml conical tubes</p>
+</td>
+<td>
+<p>4.0″</p>
+</td>
+<td>
+<p>1.0″</p>
+</td>
+<td>
+<p>2.75″ x 1.0″&nbsp;</p>
+</td>
+<td>
+<p>AEA-6</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cryo storage boxes</p>
+</td>
+<td>
+<p>3.0″</p>
+</td>
+<td>
+<p>1.5″</p>
+</td>
+<td>
+<p>2.5″ x 1.5″&nbsp;</p>
+</td>
+<td>
+<p>L2FC-7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cryo storage boxes</p>
+</td>
+<td>
+<p>3.5""</p>
+</td>
+<td>
+<p>1.25""</p>
+</td>
+<td>
+<p>3.0″ x 1.25″</p>
+</td>
+<td>
+<p>L2FC-11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cryo storage boxes</p>
+</td>
+<td>
+<p>4.0""</p>
+</td>
+<td>
+<p>4.0""</p>
+</td>
+<td>
+<p>3.5″ x 4.0″</p>
+</td>
+<td>
+<p>L2FC-8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cryo storage boxes</p>
+</td>
+<td>
+<p>4.0""</p>
+</td>
+<td>
+<p>5.0""</p>
+</td>
+<td>
+<p>3.5″ x 5.0″&nbsp;</p>
+</td>
+<td>
+<p>L2FC-9</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class=""hs-responsive-embed-wrapper hs-responsive-embed"" style=""width: 100%; height: auto; position: relative; overflow: hidden; padding: 0; max-width: 560px; max-height: 315px; min-width: 256px; margin: 10px auto; display: block; clear: both;"">
+<div class=""hs-responsive-embed-inner-wrapper"" style=""position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.25%; margin: 0;""><iframe class=""hs-responsive-embed-iframe"" height=""315"" src=""//www.youtube.com/embed/g-Reosx6oX8?start=30"" style=""position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"" width=""560"" allowfullscreen=""allowfullscreen"" data-service=""youtube""></iframe></div>
+</div>
+<p>&nbsp;</p>","Labels","","","2019-09-18T16:58:21.730Z","PUBLISHED","false"
+"Knowledge Base","Label Size Table","The maximum dimensions to avoid overlap are indicated below for each tube/vial size.","en","https://knowledge.labtag.com/knowledge/label-size-table","<p>&nbsp;</p>
+<table style=""width: 866px; height: 578px;"">
+<tbody>
+<tr>
+<td>
+<p><strong>Vial/Tube Size</strong></p>
+</td>
+<td>
+<p><strong>Width</strong></p>
+</td>
+<td>
+<p><strong>Height</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0.2 ml (PCR)</p>
+</td>
+<td>
+<p>19 mm / 0.75″</p>
+</td>
+<td>
+<p>7 mm / 0.28″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0.5 ml (Eppendorf™)</p>
+</td>
+<td>
+<p>22 mm / 0.87″</p>
+</td>
+<td>
+<p>15 mm / 0.59″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.0 ml (Matrix™/Biotube™)</p>
+</td>
+<td>
+<p>25 mm / 1.00""</p>
+</td>
+<td>
+<p>32mm / 1.26""</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1 ml (skirted)</p>
+</td>
+<td>
+<p>29 mm / 1.14″</p>
+</td>
+<td>
+<p>19 mm / 0.75″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.5 ml (Eppendorf™)</p>
+</td>
+<td>
+<p>29 mm / 1.14″</p>
+</td>
+<td>
+<p>18 mm / 0.71″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.8 – 2 ml (skirted)</p>
+</td>
+<td>
+<p>32 mm / 1.26″</p>
+</td>
+<td>
+<p>28 mm / 1.10″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5 ml (conical tube)</p>
+</td>
+<td>
+<p>32 mm / 1.26″</p>
+</td>
+<td>
+<p>67 mm / 2.64″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15 ml (conical tube)</p>
+</td>
+<td>
+<p>44 mm / 1.73″</p>
+</td>
+<td>
+<p>85 mm / 3.35″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50 ml (conical tube)</p>
+</td>
+<td>
+<p>82 mm / 3.23″</p>
+</td>
+<td>
+<p>86 mm / 3.39″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13 x 75 (blood collection vial)</p>
+</td>
+<td>
+<p>40 mm / 1.57″</p>
+</td>
+<td>
+<p>50 mm / 2.00″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13 x 100 (blood collection vial)</p>
+</td>
+<td>
+<p>40 mm / 1.57″</p>
+</td>
+<td>
+<p>75 mm / 2.95″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16 x 100 (blood collection vial)</p>
+</td>
+<td>
+<p>50 mm / 2.00″</p>
+</td>
+<td>
+<p>75 mm / 2.95″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16 x 125 (blood collection vial)</p>
+</td>
+<td>
+<p>50 mm / 2.00″</p>
+</td>
+<td>
+<p>100 mm / 4.00″</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Note that these sizes are approximate and may vary depending on the exact brand of vial/tube that you are using.</p>
+<p>If you do not find the information you are searching for within this table, please feel free to contact us, and our support team will gladly assist you.</p>
+<p>&nbsp;</p>","Labels","","","2019-09-18T16:58:19.622Z","PUBLISHED","false"
+"Knowledge Base","How to Create Sheet Format Templates in Bartender™","Creating sheet format templates in Bartender™ is easy when using the template Wizard, which guides you in a step-by-step manner. ","en","https://knowledge.labtag.com/knowledge/how-to-create-sheet-format-templates-in-bartender","<p>Once you launch Bartender™, the Wizard will appear automatically.</p>
+<ul>
+<li>Enter the information as instructed on each window page.</li>
+<li>Click NEXT for the next window and another set of instructions.&nbsp;</li>
+<li>Click BACK to review any inputs.</li>
+<li>Click FINISH once you are done.&nbsp;</li>
+</ul>
+<p>Voila, your template is ready!</p>
+<p>&nbsp;</p>
+<p>Here are more details for each step:</p>
+<ol>
+<li><strong>Launching Bartender™</strong> will initialize the Wizard automatically. Alternately, choosing a NEW document will also launch the Wizard. Choose “Blank Template” to create a brand-new template or you can choose an existing Bartender™ document to modify an existing template.<br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967444.png""></li>
+<li><strong>Select your printer</strong> from the list of available printers. <br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967445.png""></li>
+<li>You will need to make a template from scratch, so choose “<strong>Specify Custom Settings.</strong>” <br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967446.png""><br><br></li>
+<li>Choose your <strong>Page Size and Orientation</strong>. <br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967447.png""><br><br></li>
+<li>Specify the <strong>shape of your label</strong>. <br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967448.png""><br><br></li>
+<li>Specify the <strong>top, bottom, left, and right margin sizes</strong>. <br><br>You can find this information here: <br><a href=""https://cdn.labtag.com/wp-content/uploads/GA-International-Appendix-EN012020-January-28-2020.pdf"" target=""_blank"" rel=""noopener"">https://cdn.labtag.com/wp-content/uploads/GA-International-Appendix-EN012020-January-28-2020.pdf</a><br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967449.png""><br><br></li>
+<li>Specify the <strong>number and rows of columns</strong>.<br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967450.png""><br><br><br></li>
+<li>Label size is calculated automatically, but <strong>to specify minor changes in the label sizes, choose “Set Manually”</strong> and enter the desired size info. <br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967451.png""><br><br><br></li>
+<li>Specify the <strong>printing order of the items</strong>; usually, it is “Top-Left” and “Horizontally”. <br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967452.png""><br><br><br></li>
+<li>At this window, you can choose a <strong>background color or picture</strong> if desired. <br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967453.png""><br><br><br></li>
+<li>This final window gives you a <strong>summary and preview of your label</strong>.<br><br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967454.png""><br><br><br></li>
+<li>You are now ready to click FINISH to exit the Wizard. <br>Now you can <strong>start adding your text and barcodes to your label</strong>.<br><br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967455.png""><br><br><br></li>
+<li>To <strong>change the ruler settings</strong>, go to Menu, then go to View&gt; View options. <br>For example, you can change the unit settings from mm to inches.<br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967456.png""><br><br><br></li>
+<li>If you wish to <strong>make additional changes</strong>, you can launch the Wizard at anytime by double-clicking a blank portion of your label template. <br><br>Just <strong>click the Wizard button</strong> on the bottom left of the window.<br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967457.png""><br><br><br></li>
+<li>Don’t forget to<strong> save your template</strong> once you are done!</li>
+</ol>","Software","","","2020-09-08T17:19:07.518Z","PUBLISHED","false"
+"Knowledge Base","How to Create Sheet Format Templates in ZebraDesigner","","en","https://knowledge.labtag.com/knowledge/how-to-create-sheet-format-templates-in-zebradesigner","<ol>
+<li>Open the software and select Create a new label from the wizard. Click Finish.</li>
+<li>Select your printer from the drop-down list and click Next.</li>
+<li>Leave the Select Stock setting as is and click Next.</li>
+<li>Leave the Page Size setting as is and click Next.</li>
+<li>Leave the Label Layout setting as is and click Next.</li>
+<li>Enter the label width and label height in the Label Dimensions page and leave all other settings as they are. Click Finish.</li>
+<li>The blank template appears on the screen and can now be filled with information. Click on Bar Code on the left and then on your empty template to choose a 1D or 2D barcode and to enter the information to be encoded.</li>
+<li>Click Finish and the barcode will appear on your template. The letter A above to it will allow to create a text box and enter text manually.</li>
+<li>Click anywhere on your template to open the dialog box and to select font style and size as well as to enter the information you’d like to appear on your label. <br><br>Text font and font size can be chosen the same way as in a Word document.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>","Software","","","2019-09-18T16:58:20.173Z","PUBLISHED","false"
+"Knowledge Base","How to display the encoded information","","en","https://knowledge.labtag.com/knowledge/how-to-display-the-encoded-information","<p><strong>BarTender</strong></p>
+<ol>
+<li>Double click on the barcode and select Human Readable in the left-hand pane. Select None if you do not want the encoded information to be visible.</li>
+<li>Placement, Alignment, as well as Vertical and Horizontal Offset, let you place the human readable portion where you wish.<br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967458.png""><br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967459.png""><br><br></li>
+</ol>
+<p><strong>Zebra Designer</strong></p>
+<ol>
+<li>Double click on the barcode and click on the Define button next to the Barcode Type box. Select the Human Readable tab.</li>
+<li>Select No interpretation if you do not want to show any human readable information. Otherwise select Below or Above barcode to place the human readable information accordingly. Custom font allows you to modify the font style and size if desired.</li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Cablabel S3 Light/ Pro</strong></p>
+<ol>
+<li>Double click on the barcode and select the Barcode tab on the top of the new window. Uncheck the check box “Human readable” if you do not want to display the human readable portion of the barcode.</li>
+<li>No other modifications regarding the placement of the human readable portion of the barcode are possible.</li>
+</ol>","Software","","","2019-09-18T16:58:21.066Z","PUBLISHED","false"
+"Knowledge Base","How to print from a database","","en","https://knowledge.labtag.com/knowledge/how-to-print-from-a-database","<p><strong>BarTender</strong></p>
+<ol>
+<li>Double click on either a text box or barcode to open the textbox or barcode properties dialog box.</li>
+<li>Click on the icon to the right of the box Type in the Data Source tab, which by default reads Embedded Data.</li>
+<li>Select Database Field from the dropdown menu and click Finish.</li>
+<li>Click Database Connection Setup and select your Database Type, e.g. Excel.</li>
+<li>Click Select File and browse to the location where your database is stored. Select the file you would like to retrieve your data from and click Open. Click Next, then Finish. Click OK.</li>
+<li>Click on the arrow next to Field Name to select the column in your Excel file you would like to associate with your textbox or barcode, then click close.</li>
+<li>To connect the same database to a different textbox or barcode, double click on the textbox/ barcode, then on the symbol next to the Type field and select Database field. Click Next.</li>
+<li>Select the column you’d like to connect to the textbox/ barcode from Field Name drop down menu and click Finish, then Close.</li>
+<li>Click Print to open the Print dialog box. Selected Records lets you choose how many database entries you’d like to print.<br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967460.png""><br><br></li>
+<li>Leave the value at 1…. if you’d like to print all entries of your database. To print e.g. only the first 50 entries of your database, type 1-50.<br><br><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967461.png""><br><br></li>
+<li>You can select how many copies per database entry will be printed by changing the value in Copies per Serial Number accordingly.</li>
+<li>Click on Preview to verify that the correct records as well as the correct amount of copies per record will be printing before starting the print job.</li>
+</ol>","Software","","","2019-09-18T16:58:20.870Z","PUBLISHED","false"
+"Knowledge Base","LIMS","","en","https://knowledge.labtag.com/knowledge/lims","<p>What exactly constitutes a laboratory management system is continually evolving, with new features and functionality added regularly; however, the base set of functions that define the LIMS software include:</p>
+<ul>
+<li>Reception and logging of a sample with its associated data</li>
+<li>Assignment, tracking, and scheduling of the sample’s analytical workload</li>
+<li>Quality control associated with the sample and any utilized equipment and inventory</li>
+<li>Storage of data acquired from any performed analyses</li>
+<li>Compilation, inspection, and approval of data for reporting and further analysis</li>
+</ul>
+<p>&nbsp;</p>
+<p>Barcode labels are an indispensable part of a functional LIMS system. Without the use of barcodes, it would be impossible to properly track samples or to automate analytical workflows, as you would need to manually enter information at every step of the analysis. However, barcode labels serve a purpose beyond their ability to label your samples with scannable barcodes.</p>
+<p>In addition to the use of barcodes, you should also consider factors that might affect the quality of your labels, including loss of adhesion, smudging, or fading, all of which can result in the loss of information associated with the sample. As such, it is critical that you use the appropriate labels for your application. Luckily, a wide range of specialty labels exists that can match any laboratory storage and/or usage condition, making it possible to achieve a 100% accurate sample identification and associated data traceability.</p>
+<p>Regardless of your lab’s specific needs, there is a smart labeling solution available to meet your demanding standards. Ideal for all SOPs in biomedical and clinical research, from blood work and molecular biology to diagnostics and the identification of medication in clinical trials. They can also be made compatible with various printing methods commonly used in all laboratories and research facilities, such as thermal transfer, direct thermal, laser, and inkjet, or even automated print-and-apply systems.</p>","Software","","","2019-09-18T16:58:20.684Z","PUBLISHED","false"
+"Knowledge Base","Speed and Darkness Settings","","en","https://knowledge.labtag.com/knowledge/speed-and-darkness-settings","<p><strong>Speed and Darkness settings in Cab Label Software</strong></p>
+<p>Select the print option of the label template.</p>
+<p>Highlight the CAB MACH1/300 printer and double click the small icon on the far right-hand side, ‘Configure the currently selected device’. Alternatively, highlight the CAB MACH1/300 printer and right click it, then select ‘Configure the currently selected device’.</p>
+<p>Here, the CAB MACH1 properties box will appear—select the ‘Options’ tab where the Speed and Darkness settings can be found.</p>
+<p>If your printout is too faint, you will want to decrease the speed (the lowest setting is 50.8 mm/s) and increase the darkness (the highest setting is 19).</p>
+<p><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967462.png""></p>
+<p>&nbsp;</p>
+<p><strong>Speed and Darkness in Zebra Designer</strong></p>
+<p>Select File, then Printer Settings. Navigate to the Options tab, and here you will find the speed and darkness.</p>
+<p>If your printout is too faint, you can decrease the speed (lowest setting is 2”/sec) and increase the darkness (highest setting is 30).</p>
+<p><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967463.png""></p>
+<p>&nbsp;</p>
+<p><strong>Speed and Darkness in BarTender:</strong></p>
+<p>Press the Print button and select 'Document Properties' underneath your printer's name.</p>
+<p>If your printout is faint, select the 'Options' tab and uncheck 'Use current printer settings' in the 'Darkness' field. With 'Relative' selected, move the bar to the right and confirm with OK (the maximum value will depend on the driver/printer you are using).</p>
+<p>To adjust the speed, uncheck 'Use current printer settings' in the 'Speed Settings' field. Then reduce the printing speed (lowest value will depend on the driver/printer you are using).<br><br></p>
+<p><img class=""hs-image-align-none"" src=""https://cdn2.hubspot.net/hubfs/4079112/image-967464.png""></p>","Software","","","2019-09-18T16:58:20.500Z","PUBLISHED","false"
+"Knowledge Base","How to Create Sheet Format Templates in Cablabel S3 Light & Pro","","en","https://knowledge.labtag.com/knowledge/how-to-create-sheet-format-templates-in-cablabel","<ol>
+<li>Open the software and select New Label from the pane on the left.</li>
+<li>Select measuring unit, mm or inch, from the drop down and enter the label dimensions on the right. No other specifications due have to be changed, unless you are using a label which is more than one across. Please enter the correct amount of Label columns in that case.</li>
+<li>Click Next and the blank label template will appear.</li>
+<li>Click on Text in the top left corner and anywhere on your template to open the Text properties: editing dialog. Enter the text you’d like to appear on your template and select the font properties you’d like to use. Click OK once you are done.</li>
+<li>Click on Barcode in the top left corner and anywhere on your template to open the Barcode properties: editing dialog.</li>
+<li>Enter the value you’d like to encode in the box on the bottom of the screen. Select the 1D or 2D barcode you’d like to use from the pane on the left-hand side of the window.</li>
+<li>Click OK once you are finished.</li>
+</ol>","Software","","","2020-04-14T19:28:22.632Z","PUBLISHED","false"
+"Knowledge Base","How to match a ribbon to your labels","Careful consideration must be given when choosing a thermal-transfer ribbon. There are 4 main criteria that must be addressed.","en","https://knowledge.labtag.com/knowledge/how-to-match-a-ribbon-to-your-labels","<p>&nbsp;</p>
+<ul>
+<li>The ribbon must be carefully matched with the material of the label being printed. For example, NitroTAG™ labels must be printed with RR class ribbons in order to ensure printout quality and optimal performance under cryogenic conditions.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Ribbons are available in either 0.5"" or 1"" diameter cores, which are the cardboard cylinders that hold the ribbon. It is best to consult the user manual of your thermal printer to ensure the right core diameter is used.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Choose a ribbon that is within the maximum width parameter of your printer (see your printer’s user manual), but still covers the entire width of your label to ensure that the printout encompasses the complete printable area of your label. It is fine to use a ribbon that is wider than your label width, though this can result in excessive ribbon waste. However, this may be advantageous in certain circumstances when different labels sizes are printed, as this will avoid unwanted swapping of ribbons.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Lastly, certain ribbon types are available in various lengths. Though, these varied ribbon lengths may be supplied on rolls that are too thick to fit into some of the smaller desktop thermal printers. Again, check your printer's user manual for the right size recommendation.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Luckily at LABTAG, we have made your choice easier by offering quick and easy recommendations once you have chosen your desired label on our website. From there, use the handy filtering options to choose your ribbon according to your thermal printer type.</p>
+<p>Our ribbon recommendations are the result of extensive research and development with careful consideration given to the performance of the label and ribbon as a whole.</p>","Ribbons","","","2019-09-18T16:58:19.998Z","PUBLISHED","false"
+"Knowledge Base","Core Size","Core size applies to labels that come in roll format. The core size refers to the diameter of the plastic or cardboard tube on which your labels are rolled. ","en","https://knowledge.labtag.com/knowledge/core-size","<p>The inside diameter (I.D.) will determine if the label roll will fit on the label spindle, and as such is compatible with your printer. The outside diameter (O.D.) is less important, as it plays a role in determining the length of the roll (i.e. number of labels the roll can hold).</p>
+<p>Most desktop thermal printers are designed to work with 1” (25 mm) cores, with the bigger, more industrial models set-up to work with 3” (76 mm) cores. 2” (51 mm) cores are less frequently used, but typically roll printers for inkjet labels will use this size.</p>","Ribbons","","","2019-09-18T16:58:19.805Z","PUBLISHED","false"
+"Knowledge Base","How to Correctly Apply CryoSTUCK® Labels","CryoSTUCK labels can be applied at -80°C, ideally done on dry ice. Wipe away excess frost, and apply the label starting with the left edge, then press the label securely into position along the vials’ entire circumference.
+","en","https://knowledge.labtag.com/en/knowledge/how-to-correctly-apply-cryostuck-labels","<p><a href=""#TT"" rel=""noopener"">How to apply thermal-transfer CryoSTUCK labels</a></p>
+<p><a href=""#Laser"" rel=""noopener"">How to apply laser CryoSTUCK labels</a></p>
+<p><a href=""#DYMO"" rel=""noopener"">How to apply DYMO-compatible CryoSTUCK labels</a></p>
+<div class=""hs-embed-wrapper"" style=""position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 560px; max-height: 315px; min-width: 256px; display: block; margin: auto;"" data-service=""youtube"" data-responsive=""true""><div class=""hs-embed-content-wrapper""><div style=""position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.25%; margin: 0px;""><iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/h6d8L_3V6rI"" title=""YouTube video player"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen="""" style=""position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border: none;""></iframe></div></div></div>
+<p style=""text-align: justify;"">&nbsp;</p>
+<p style=""text-align: justify;"">Preserving the integrity of biological samples is vital, especially when labeling multiple vials. You don’t want to open and close your tank or freezer too many times or let your samples thaw on the bench. We recommend you do your labeling in batches and always set your samples in an insulated container of dry ice to preserve the temperature at -80°C. This is recommended as CryoSTUCK labels are meant to be applied at a minimum temperature of -80°C. So, if labeling vials stored in liquid nitrogen, dry ice will allow you to work comfortably and ensure the temperature of the samples does not rise to the point of thawing. Allow your tubes to equilibrate on dry ice for at least 5 minutes before labeling.</p>
+<a id=""TT"" data-hs-anchor=""true""></a>
+<h3>How to Apply Thermal-Transfer CryoSTUCK Labels</h3>
+<p style=""text-align: justify;"">Our roll format CryoSTUCK® labels require an overlap of at least 0.25” to produce a secure adhesion to frozen vials and tubes. Ensure that your labels and vials allow for such overlap to guarantee the best adhesion and certify the cryo label will remain affixed on the frozen vials.</p>
+<p style=""text-align: justify;"">For optimal adhesion, wipe away any visibly accumulated frost with a clean lint-free disposable wipe (e.g: KimWipe™). Avoid excessive contact with the label adhesive during application. Apply the edge of the label first and press firmly to anchor it. If you have a wrap-around CryoSTUCK, apply the printable area first. Then press the label securely into position along the vials’ entire circumference. The vials can be stored in liquid nitrogen (-196°C), or ultra-low temperature freezers (-80°C) immediately following label application, requiring no cure time.</p>
+<a id=""Laser"" data-hs-anchor=""true""></a>
+<h3>How to Apply Laser CryoSTUCK Labels</h3>
+<p style=""text-align: justify;"">Our laser format CryoSTUCK® labels do not require an overlap to produce a secure adhesion to frozen vials and tubes. Nevertheless, please follow these steps to guarantee the best adhesion and certify the cryo label will remain affixed on the frozen vials.</p>
+<p style=""text-align: justify;"">To ensure proper application of these labels and their permanent adherence in ultra-low temperature storage (-80°C to -196°C), please wipe the surface of the vial/tube with a clean lint-free disposable wipe (e.g: KimWipe™) prior to affixing the label to remove excess frost. Avoid excessive contact with the label adhesive during application. Apply the edge of the label first and press firmly to anchor it. Then press the label securely into position along the vials’ entire circumference. The vials can be stored in liquid nitrogen or ultra-low temperature freezers immediately following label application, requiring no cure time.</p>
+<a id=""DYMO"" data-hs-anchor=""true""></a>
+<h3>How to Apply DYMO-Compatible CryoSTUCK Labels</h3>
+<p style=""text-align: justify;"">To ensure proper application of these labels, wipe the surface of the vial/tube with a clean lint-free disposable wipe (e.g: KimWipe™) prior to affixing the label to any visibly accumulated frost. While avoiding excessive contact with the label adhesive apply the edge of the label first, pressing firmly to anchor it, and then apply the label securely into position along the vials’ entire circumference.</p>
+<p style=""text-align: justify;"">Our DYMO-compatible CryoSTUCK® labels do not require an overlap to produce a secure adhesion to frozen vials and tubes. The cryo vials can be returned to storage in liquid nitrogen (-196°C), or ultra-low temperature freezers (-80°C) immediately following label application, requiring no cure time.</p>
+<p>&nbsp;</p>","Labels","","","2021-07-21T18:46:23.177Z","PUBLISHED","false"
+"Knowledge Base","Where Can I Download Label Templates in Word Format for Printing Laser & Inkjet Labels?","LabTAG offers free MS Word templates for your laser and inkjet printers under the templates tab.","en","https://knowledge.labtag.com/en/knowledge/where-can-i-download-label-templates-in-word-format-for-printing-laser-inkjet-labels","<p style=""text-align: justify;"">We provide free Word label templates in both Letter Sheet Format (8.5” x 11”) and A4 European Sheet Format (210 mm x 297 mm) for easy formatting and printing of all our laser and inkjet labels. You can download them for free <a href=""https://www.labtag.com/resources/templates/"" target=""_blank"" rel=""noopener"">here</a> or by clicking on the Label Templates tab.</p>
+<p style=""text-align: justify;"">To find your template, go to the Templates page and choose your format. If your product number starts with A4, then choose the A4 format. If not, then choose Letter US. Then locate the numeric portion of your label’s product number. This corresponds to the template you are looking for.</p>
+<p style=""text-align: justify;"">For example, the template that corresponds to the product number CL-12 is template #12 in the Letter section of the Templates page.</p>","Labels","Laser Labels","","2021-07-21T15:32:44.079Z","PUBLISHED","false"
+"Knowledge Base","The printing on my Laser Labels is too Close/Exceeds the Label Margins.","You can adjust the side margins in your template using the ""layout"" tab.","en","https://knowledge.labtag.com/en/knowledge/the-printing-on-my-laser-labels-is-too-close/exceeds-the-label-margins","<p style=""text-align: justify;"">Please adjust the side margins in your template to correct this issue. To do so, follow these easy steps:</p>
+<ul>
+<li style=""text-align: justify;"">Once your template is open in Word, click on the “Page Layout” or “Layout” tab.</li>
+<li style=""text-align: justify;"">Click the “Margins” button.</li>
+<li style=""text-align: justify;"">At the bottom of the drop-down window, select “Custom Margins”.</li>
+<li style=""text-align: justify;"">In the new “Page Setup” window (under the “Margins” tab), make sure the correct margins (Top and Sides) are entered as indicated on our “GA International labels for laser printers formatting appendix” located&nbsp;<a href=""https://cdn.labtag.com/wp-content/uploads/GA-International-Appendix-EN012020-January-28-2020.pdf"" rel=""noopener"">here</a>.</li>
+<li style=""text-align: justify;"">If Word shows a warning pop-up indicating that some margins might be outside of the “printable area of the page”, click “Ignore”.</li>
+<li style=""text-align: justify;"">Please keep in mind that the number of the template is equivalent to the product’s SKU# (i.e. #23 is the corresponding template for CL, RCL, and TRCL-23).</li>
+</ul>","Labels","Laser Labels","","2021-07-21T15:33:57.552Z","PUBLISHED","false"
+"Knowledge Base","Can I print a few Labels and Save the label Sheet for Future Printing?","","en","https://knowledge.labtag.com/en/knowledge/can-i-print-a-few-labels-and-save-the-label-sheet-for-future-printing","<p style=""text-align: justify;"">Yes. We design our labels for convenience and conservation. We understand that you might want to print only a few and save the remaining labels for later use. Our laser label sheets can withstand multiple passes in a laser printer without the labels peeling off or jamming the printer.</p>","Labels","Laser Labels","","2021-07-21T15:08:19.335Z","PUBLISHED","false"
+"Knowledge Base","I Want to Print My Labels from the Paper Tray but Receive an Error Message to Load Paper Into the Manual Feed.","","en","https://knowledge.labtag.com/en/knowledge/i-want-to-print-my-labels-from-the-paper-tray-but-receive-an-error-message-to-load-paper-into-the-manual-feed","<ul>
+<li style=""text-align: justify;"">In Word 2007, select the “Page Layout” tab and click the “Expand” icon in the “Page Setup” box.</li>
+<li style=""text-align: justify;"">Select the “Paper” tab in the new window and set the “Paper Source” for the first and subsequent pages to “Default Tray (Auto Select)”.</li>
+</ul>","Labels","Laser Labels","","2021-07-21T15:31:26.457Z","PUBLISHED","false"
+"Knowledge Base","The Ink Does Not Adhere to the Labels and Comes off When I Remove the Labels from the Sheet.","Verify your printer settings, and ensure your using the correct media type.","en","https://knowledge.labtag.com/en/knowledge/the-ink-does-not-adhere-to-the-labels-and-comes-off-when-i-remove-the-labels-from-the-sheet","<p style=""text-align: justify;"">The ink is not fused with enough heat to your labels. Please verify your settings as follows:</p>
+<ul>
+<li style=""text-align: justify;"">Press the Print button, then click “Properties” next to your printer’s name.</li>
+<li style=""text-align: justify;"">Verify the Media/Paper Type. Most likely, it will be set to “Plain Paper”. Click the drop-down box and select “Label” as Media Type. If your printer does not offer ""label"" as an option, select “Thicker Paper”.</li>
+</ul>","Labels","Laser Labels","","2021-07-21T15:33:05.467Z","PUBLISHED","false"
+"Knowledge Base","I See a Blank Page with No Gridlines When I Open a Label Template","","en","https://knowledge.labtag.com/en/knowledge/i-see-a-blank-page-with-no-gridlines-when-i-open-a-label-template","<p style=""text-align: justify;"">Word 2007 &amp; 2010: Select the “Layout” tab under “Table Tools” (at the right end of your tab bar) and select “View Gridlines”.</p>
+<p style=""text-align: justify;"">Word 2003: Select the “Table” tab and select “Show Gridlines” from the pulldown menu.</p>
+<p style=""text-align: justify;"">Pages: Click on “View” and select “Show Layout”.</p>","Labels","Laser Labels","","2021-07-21T15:47:35.213Z","PUBLISHED","false"
+"Knowledge Base","Can I Print Barcodes Using Your Word Templates?","","en","https://knowledge.labtag.com/en/knowledge/can-i-print-barcodes-using-your-word-templates","<p>Yes, but additional software is required. Please contact us for more information.</p>","Labels","Laser Labels","","2021-07-21T16:32:30.565Z","PUBLISHED","false"
+"Knowledge Base","What is the Difference between Thermal-Transfer and Direct Thermal Printing","While both methods employ a heated printer head, thermal-transfer printers require an ink ribbon, while direct thermal printers do not need any ink sources for printing.","en","https://knowledge.labtag.com/en/knowledge/what-is-the-difference-between-thermal-transfer-and-direct-thermal-printing","<p style=""text-align: justify;"">Direct-thermal and thermal-transfer printing share many similarities. Both techniques use a heated print head to print on the blank label. The main difference between the two techniques is the use of a printing ribbon in thermal-transfer printing, which is not required with direct-thermal methods.</p>
+<p style=""text-align: justify;"">Direct thermal printing uses heat to activate thermosensitive paper labels. The heated print head comes in direct contact with the label. When heated, the thermosensitive label reacts and darkens, creating the desired print. One important consideration when choosing this method is that this print is unstable and prone to fading over time, especially when stored in hot or humid conditions. Scratches can also produce enough heat to create marks on the label and affect the quality of the print.</p>
+<p style=""text-align: justify;"">In contrast to direct thermal printing, thermal-transfer methods use a ribbon to print information on labels. The heated print head is used to melt the ink coating of the ribbon, transferring it to the label. Since the label itself is not reactive, the print produced by this method is much more stable and a lot more durable. Thermal-transfer labels are usually made from a thermoplastic film, but can be made of paper material as well.</p>","Labels","Thermal-Transfer Labels","","2021-07-21T19:02:49.750Z","PUBLISHED","false"
+"Knowledge Base","Where Can I Find Templates to Format & Print My Thermal-Transfer/Direct Thermal Labels","","en","https://knowledge.labtag.com/en/knowledge/where-can-i-find-templates-to-format-and-print-my-thermal-transfer/direct-thermal-labels","<p style=""text-align: justify;"">You can design your own templates using label printing software, such as the BarTender Barcode Label Software. BarTender is a user-friendly software that makes it easy to design templates. Its Wizard will guide you through the necessary steps.</p>
+<p style=""text-align: justify;"">If you need further assistance in creating your own templates, do not hesitate to contact us.</p>","Labels","Thermal-Transfer Labels","","2021-07-21T19:12:27.615Z","PUBLISHED","false"
+"Knowledge Base","The printout on My Thermal-Transfer labels is Faint and Barely legible.","To address issues with faint printing, increase the darkness setting on your printer. You can also reduce print speed to further resolve the problem.","en","https://knowledge.labtag.com/en/knowledge/the-printout-on-my-thermal-transfer-labels-is-faint-and-barely-legible","<p style=""text-align: justify;"">There is likely not enough heat applied to the ribbon to efficiently transfer the ink to the label, especially if you are using a resin ribbon.</p>
+<p style=""text-align: justify;"">The settings can be easily adjusted if you use the BarTender label printing software. Press the Print button and select “Document Properties” underneath your printer’s name.</p>
+<p style=""text-align: justify;"">Verify that the current settings in the “Stock” tab are correct. Your print method should display “Thermal-Transfer” and the Media Type should reflect your label type.</p>
+<p style=""text-align: justify;"">Select the “Options” tab and uncheck “Use current printer settings” in the “Darkness” field. With “Relative” selected, move the bar to the right to about 20 and confirm by clicking OK. This should increase the darkness of your printout. Please increase the darkness further if the problem persists.</p>
+<p style=""text-align: justify;"">If the printout is still not as expected, even with the darkness set to maximum, uncheck “Use current printer settings” in the “Speed Settings” field. Then reduce the printing speed to 3.00 in/sec or 2.00 in/sec.</p>
+<p style=""text-align: justify;"">If you do not use BarTender, you will have to adjust the darkness settings in your printer settings directly. For your Citizen CL-S631 printer, please refer to pages 31 and 34 of your printer manual for changing the settings. For your Zebra GX430t printer, please refer to page 107 of your printer manual.</p>","Labels","Thermal-Transfer Labels","","2021-07-21T19:29:30.076Z","PUBLISHED","false"
+"Knowledge Base","Why Do My Labels Have a Black Mark in the Back or a Notch Between Two Labels","These are sensors used by the printer to identify the correct placement of the label, for accurate printing.","en","https://knowledge.labtag.com/en/knowledge/why-do-my-labels-have-a-black-mark-in-the-back-or-a-notch-between-two-labels","<p style=""text-align: justify;"">In order for labels to properly feed through the printer in the correct alignment, the printer has to be able to identify where each label starts and ends. To do so, the printer uses sensors to detect black marks or notches between labels. This allows the printer to position labels properly and to produce a well-aligned printout. In order for the sensors to detect the black marks or notches, please make sure that you select the correct Media Type as described below.</p>
+<p style=""text-align: justify;"">If you use BarTender, please press Print and click “Document Properties” underneath your printer’s name. Select the “Stock” tab and make sure that “Non-Continuous (Mark Sensing)” is set as Media Type.</p>
+<p style=""text-align: justify;"">You can adjust the settings on your printer directly if you do not use BarTender. For your Citizen CL-S631, please refer to pages 45 to 47 of your manual. Your sensor will have to be set to “Reflective” in order to recognize the labels correctly. For your Zebra GX430t printer, please refer to page 102 and/or page 107 of your manual.</p>","Labels","Thermal-Transfer Labels","","2021-07-21T19:39:32.277Z","PUBLISHED","false"
+"Knowledge Base","Can I Import Data from My Database into BarTender and Print the Information on My Labels","","en","https://knowledge.labtag.com/en/knowledge/can-i-import-data-from-my-database-into-bartender-and-print-the-informatin-on-my-labels","<p style=""text-align: justify;"">Yes. This requires at least the Professional version of the BarTender software. In order to import your data, you will have to create a text field or barcode first. Next, double-click the text box/barcode and click the icon to the right of the box which reads “Embedded Data”. Select “Database Field” from the dropdown menu and click “Next”.</p>
+<p style=""text-align: justify;"">Click the “Database Connection Setup” button and follow the Wizard. Please do not hesitate to contact us at your convenience if you have questions concerning the setup of your database or problems connecting your database to BarTender.</p>","Labels","Thermal-Transfer Labels","","2021-07-21T19:50:12.105Z","PUBLISHED","false"
+"Knowledge Base","The Printout on the DYMO-Compatible Labels is Faint. How Can the Print Quality be Improved?","","en","https://knowledge.labtag.com/en/knowledge/the-printout-on-the-dymo-compatible-labels-is-faint-how-can-the-print-quality-be-improved","<p>For optimal printout quality, in the DYMO label software please:</p>
+<ol>
+<li>Select “Edit” at the top software menu.</li>
+<li>Click on “Preferences”.</li>
+<li>In the new Preferences window, click on the “LabelWriter printer” tab.</li>
+<li>Select “Barcode and graphics” as your print quality.</li>
+<li>Click “OK” and then print.</li>
+</ol>","Labels","DYMO-Compatible Labels","","2021-07-21T20:10:15.134Z","PUBLISHED","false"
+"Knowledge Base","Can I print GA International Direct Thermal Labels (SKU: DFP) with My DYMO Printer?","","en","https://knowledge.labtag.com/en/knowledge/can-i-print-ga-international-direct-thermal-labels-with-my-dymo-printer","<p style=""text-align: justify;"">Unfortunately, no. DYMO printers are very specific. In order for the labels to move correctly through the printer, DYMO printers require the rolls to have notches between labels that are different from what other thermal-transfer/direct thermal printers use.</p>
+<p style=""text-align: justify;"">We do provide DYMO-compatible labels to use with DYMO LabelWriter printers. To see all our DYMO-compatible labels, <a href=""https://www.labtag.com/shop/category/cryogenic-labels/dymo-compatible-cryogenic-labels/"">please click here</a>.</p>","Labels","DYMO-Compatible Labels","","2021-07-21T20:04:20.328Z","PUBLISHED","false"
+"Knowledge Base","Can I Serialize and Barcode My Data on My Own?","","en","https://knowledge.labtag.com/en/knowledge/can-i-serialize-and-barcode-my-data-on-my-own","<p>Absolutely! You can create your own barcode databases using data management software such as BarTender Barcode Label Software. BarTender is a user-friendly software that makes it easy to design templates, as well as print and manage your barcoded data. Its Wizard will guide you through the necessary steps.</p>","Software","","","2021-07-28T17:34:15.828Z","PUBLISHED","false"
+"Knowledge Base","Are Your Labels Available in Other Colors/Sizes Than What is on the Website?","","en","https://knowledge.labtag.com/en/are-your-labels-available-in-other-colors/sizes-than-what-is-on-the-website","<p>LabTAG offers complete customization options for all our labels. If the size, color, or configuration you require is not currently available, we can customize any product to the size and color that you require. Please send an e-mail with the details of your request to Support@Ga-International.com and we will contact you with pricing information.</p>","Labels","","","2021-07-28T17:37:50.337Z","PUBLISHED","false"
+"Knowledge Base","How Do I Know if Your Labels Are Compatible With My Printer","","en","https://knowledge.labtag.com/en/how-do-i-know-if-your-labels-are-compatible-with-my-printer","<p>Our labels are compatible with most brands of printers, and we include some information on printer compatibility on the product pages of most of our labels. If you would like to validate the compatibility of our labels, please feel free to use our chat service and our support team will gladly assist you. Please have the brand and model of your printer handy (e.g. Zebra GX430T).</p>","Labels","","","2021-07-28T17:35:32.617Z","PUBLISHED","false"
